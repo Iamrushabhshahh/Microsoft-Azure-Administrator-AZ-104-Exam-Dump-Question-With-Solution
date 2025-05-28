@@ -25,6 +25,6 @@ If you find this repository useful, please consider starring it. Your support he
 
 ## Disclaimer
 
-While this repository aims to assist you in your exam preparation, it is not a guarantee of success. The best way to prepare is to combine various resources, hands-on experience, and thorough understanding of AWS services.
+While this repository aims to assist you in your exam preparation, it is not a guarantee of success. The best way to prepare is to combine various resources, hands-on experience, and thorough understanding of Azure services.
 
 Good luck with your Azure AZ-104 exam preparation!
